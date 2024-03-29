@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingeieria+Informatica;Siempre%se%20aprende%20algo%20nuevo&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingeieria+Informatica;Siempre20%se%20aprende%20algo%20nuevo&center=true&width=380&height=45">
 	</a>
 </p>
 
