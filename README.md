@@ -8,7 +8,7 @@ Hola Me llamo Manu
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingeieria+Informatica;Siempre%20se%20aprende%20algo%20nuevo&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingeieria+Informatica;Blas+Pascal;Siempre%20se%20aprende%20algo%20nuevo&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -35,3 +35,21 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/franco-nicolais-68b236167/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/ManuNicolais"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
+
+## ✔ Estadisticas de Github
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                
+<br>
+
+<a href="https://github.com/ManuNicolais">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuNicolais&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/ManuNicolais">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=ManuNicolais&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
