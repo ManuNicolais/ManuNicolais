@@ -1,5 +1,3 @@
-### Hola Me llamo Manu
-
 <h1 align="center">
 Hola Me llamo Manu
 	<a href="https://github.com/Bouaskaoun" target="_self">
@@ -29,3 +27,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🤝 Connect with me
+<p align="center">
+	<a href="mailto:manueqs@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/franco-nicolais-68b236167/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/ManuNicolais"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
