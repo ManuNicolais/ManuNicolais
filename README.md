@@ -53,3 +53,10 @@ Here are some ideas to get you started:
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
+
+### ✨ Mis Proyectos
+  
+<a href="https://github.com/ManuNicolais/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=POO&theme=tokyonight" />
+</a>
+
