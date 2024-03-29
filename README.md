@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ### ✨ Mis Proyectos
   
-<a href="https://github.com/ManuNicolais/Background-generator">
+<a href="https://github.com/ManuNicolais/POO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=POO&theme=tokyonight" />
 </a>
 
