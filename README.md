@@ -39,7 +39,7 @@ Hola Me llamo Manu
 ### ✨ Mis Proyectos
   
 <a href="https://github.com/ManuNicolais/POO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=POO&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=Programacion-Orientada-a-Objetos &theme=tokyonight" />
 </a>
 
 <a href="https://github.com/ManuNicolais/PGE">
