@@ -38,14 +38,14 @@ Hola Me llamo Manu
 
 ### ✨ Mis Proyectos
   
-<a href="https://github.com/ManuNicolais/Programacion Ortientada a Objetos (POO)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=POO&theme=tokyonight" />
+<a href="https://github.com/ManuNicolais/POO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=Programacion Orientada a Objetos&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/ManuNicolais/PRogramacion Generica y Eventos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=PGE&theme=tokyonight" />
+<a href="https://github.com/ManuNicolais/PGE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=PRogramacion Generica y Eventos&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/ManuNicolais/Godot Engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=Godot&theme=tokyonight" />
+<a href="https://github.com/ManuNicolais/Godot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=Godot Engine&theme=tokyonight" />
 </a>
