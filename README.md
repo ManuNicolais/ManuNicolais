@@ -28,36 +28,6 @@ C++, C#, Python, Java, HTML, CSS, Unreal Engine 5, Godot, Unity, Blender, Arduin
 	<a href="https://www.instagram.com/manunicolais"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-
-
-## ✔ GitHub Stats
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                
 <br>
-
-<a href="https://github.com/ManuNicolais">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuNicolais&theme=tokyonight" />
-  </a>
-
-<a href="https://github.com/ManuNicolais">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=ManuNicolais&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
-</a>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br>
-
-### ✨ My Projects
-  
-<a href="https://github.com/ManuNicolais/Programacion-Orientada-a-Objetos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=POO&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/ManuNicolais/PGE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=PGE&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/ManuNicolais/Godot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuNicolais&repo=Godot&theme=tokyonight" />
-</a>
