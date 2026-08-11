@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
-Hola, me llamo Manu
+Hello, I am Manuel Nicolais
 	<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
 
@@ -18,8 +18,48 @@ I’m deeply interested in programming, software development, and video game cre
 I’m a team player who values communication and creativity. My peers often describe me as adaptable, analytical, and self-taught, always looking for ways to grow and contribute to shared goals.
 I believe that every project is an opportunity to learn something new and make an impact.
 
-Languages & Tools:
-C++, C#, Python, Java, HTML, CSS, Unreal Engine 5, Godot, Unity, Blender, Arduino.
+## 🧠 Tech Stack & Tools
+
+### 💻 Programming Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-E61B23?logo=swipl&logoColor=white)
+![CLIPS](https://img.shields.io/badge/CLIPS-3E7BB6?logo=clips&logoColor=white)
+![GO](https://img.shields.io/badge/Go-777BB4?logo=go&logoColor=white)
+![LUAU](https://img.shields.io/badge/Luau-777BB4?logo=Luau&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+### 🧰 IDEs & Tools
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
+![QT](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 🌍 Languages
+- 🇦🇷 **Spanish** (Native)  
+- 🇬🇧 **English** (Advanced)  
+- 🇯🇵 **Japanese** (Currently Learning)
 
 ## 🤝 Contact Me
 <p align="center">
@@ -30,3 +70,4 @@ C++, C#, Python, Java, HTML, CSS, Unreal Engine 5, Godot, Unity, Blender, Arduin
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                
 <br>
+
