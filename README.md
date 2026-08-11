@@ -6,7 +6,7 @@ Hello, I am Manuel Nicolais
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Ingenieria+Informatica;Blas%20Pascal&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering;Blas%20Pascal&center=true&width=380&height=45">
 	</a>
 </p>
 
