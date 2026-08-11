@@ -33,8 +33,8 @@ I believe that every project is an opportunity to learn something new and make a
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?logo=swipl&logoColor=white)
 ![CLIPS](https://img.shields.io/badge/CLIPS-3E7BB6?logo=clips&logoColor=white)
-![GO](https://img.shields.io/badge/Go-777BB4?logo=go&logoColor=white)
-![LUAU](https://img.shields.io/badge/Luau-777BB4?logo=Luau&logoColor=white)
+![GO](https://img.shields.io/badge/Go-060A66?logo=go&logoColor=white)
+![LUAU](https://img.shields.io/badge/Luau-007396?logo=Luau&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
@@ -53,6 +53,11 @@ I believe that every project is an opportunity to learn something new and make a
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+### 🤖 Agents & IA
+![CURSOR](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
+![ANTIGRAVITY](https://img.shields.io/badge/Antigravity-1920E3?logo=Antigravity&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-20232A?logo=OpenCode&logoColor=white)
 
 ---
 
