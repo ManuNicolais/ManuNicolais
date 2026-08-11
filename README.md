@@ -58,8 +58,9 @@ I believe that every project is an opportunity to learn something new and make a
 ![CURSOR](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
 ![ANTIGRAVITY](https://img.shields.io/badge/Antigravity-1920E3?logo=Antigravity&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-20232A?logo=OpenCode&logoColor=white)
-
----
+![Claude](https://img.shields.io/badge/Claude-F08600?logo=Claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/chatGPT-5F9E4F?logo=OpenAI&logoColor=white)
+![Gemini](https://img.shields.io/badge/gemini-97D2E8?logo=Gemini&logoColor=white)
 
 ## 🌍 Languages
 - 🇦🇷 **Spanish** (Native)  
